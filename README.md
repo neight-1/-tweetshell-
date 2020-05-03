@@ -32,7 +32,3 @@ sudo ./tweetshell.sh
 chmod +x install.sh
 sudo ./install.sh
 ```
-### Donate! Support the Author
-Pay me a coffee:
-### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
